@@ -1,3 +1,5 @@
 My first GitHub project.
 
 This project is now connected to GitHub.
+
+This change was made directly on GitHub.
