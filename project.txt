@@ -5,3 +5,5 @@ This project is now connected to GitHub.
 This change was made directly on GitHub.
 
 This is a fetch practice.
+
+This feature was developed on a GitHub branch.
